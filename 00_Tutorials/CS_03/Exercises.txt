@@ -1,0 +1,16 @@
+## Exercise 1
+Exercise Description: Create a program to show the usage of primitive types.
+Exercise Solution:  PrimitiveTypes(File)
+
+## Exercise 2
+Exercise Description: Create a simple class for students and give properties (Age, Name, Tuition Fee, Starting Date of studying, Phone Number). Create two Constructors, the default one and one that takes as parameters all the properties. Create a method to raise students tuition based on a percentage. On runtime create three objects of this class and assign data to their properties 
+through assignment, initialization and using the constructors.
+Exercise Solution:  SimpleClassDemo(File)
+
+## Exercise 3 
+Exercise Description: In SimpleClassDemo Exercise create an enumeration to present student’s conduct and a member to store it. Create a method to Set Student’s conduct. Based on student’s conduct create a method to calculate the percentage on RaiseTuition.
+Exercise Solution: SimpleClassDemoExercise(File)
+
+## Exercise 4
+Exercise Description: Develop software to evaluate banks. Create an electronic book to keep ratings of an individual bank. Compute simple statistics over the ratings. Ratings are entered as float numbers (0-100) and statistics show the highest, lowest and average rating. 
+Exercise Solution: BankAssessment (File)

@@ -1,0 +1,23 @@
+## Exercise 1
+Exercise Description: Create a normal pointer to an array object. Then create a pointer (p1) in a[0]. Then create a second pointer (p2) to show incrementing it.
+Exercise Solution: Pointers(File)
+
+## Exercise 2
+Exercise Description: Create a class with methods to convert temperature from Fahrehneit to Celsius. Create a string selection menu for the user in order to select the action. Based on user input call the right method from the class.
+Exercise Solution: StaticDemoTM(File)
+
+## Exercise 3 
+Exercise Description: Create a class where you will be calculating factorial number n. Design two methods to accomplish factorial calculation, one Recursive and one Iterative. Then you will be given a recursive countdown method. Refactor it to an Iterative one.
+Exercise Solution: IterationVsRecursion (File)
+
+## Exercise 4
+Exercise Description: Create a simple program with a class and a struct. Create a string in both of them. Then create a tester class and inside there two methods, one that you pass a class object as parameter and one that you pass a struct. Try to change in both of them their string and project the outcome.
+Exercise Solution: ValueVsReference(File)
+
+## Exercise 5
+Exercise Description: Work on the BankAssesment project from previous lecture. Create unit test project and connect it with the main project. Create test methods that evaluate the Rating Statistics. Then create a new set of tests in order to test the value and reference types, how they hold a value, and how they are passed by value or by reference.
+Exercise Solution: BankAssesmentPart2(File)
+
+## Exercise 6
+Exercise Description: Create an Iterative and a Recursive version of the Fibonacci Numbers in C#.
+Exercise Solution: FibonacciNumbersTM(File)

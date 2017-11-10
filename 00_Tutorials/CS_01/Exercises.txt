@@ -1,0 +1,6 @@
+## Exercise 3
+Create a Console Application in Visual Studio. 
+1. The Application should ask the user to input his name, and then project a simple welcome message. 
+2. The Application should ask the user to input how many hours studied yesterday, and then project a simple message based on user’s input. 
+
+Exercise Solution: Session1Tutorial2 (File)

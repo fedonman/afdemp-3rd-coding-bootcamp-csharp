@@ -1,0 +1,21 @@
+## Exercise 1
+Exercise Description: Create an example class to demonstrate abstraction. Try to create a class to define Cars. A car should have a name and a color. We should also represent the steering, the internal details of the car and its engine. Try to separate the necessary and the unnecessary things of the car.
+
+Exercise Solution: Abstraction(File)
+
+## Exercise 2
+Exercise Description: Create an example program to demonstrate encapsulation. Create a class for Rectangle and two fields length and width. Inside this class calculate the area of the rectangle. Develop a method to display all the above information when its needed. Then create a second class RectanglePrivate with private fields length and width. Develop a method where the system asks user to input those two fields, and a method to calculate the area, and another to display all the information. Examine the differences through runtime code.
+Exercise Solution: Encapsulation(file)
+
+## Exersice 3
+Exercise Description: Create an example program to demonstrate Immutability. Create two types a Mutable and an Immutable with a field called x. In Immutable class mark this field as read-only. Develop a method in both classes to calculate square(x). Then a function that tries to change the value of x in some way. Examine in runtime code what is happening with the value of x.
+Exercise Solution: Immutability(file)
+
+## Exercise 4
+Exercise Description: Create a class for Currency and two read-only properties for Name and Country. Create a Constructor to initialize those two properties. Examine if the values can be modified outside the constructor. Then create a class Article with a read-only filed and a constant field for name and price. Try to build a constructor and initialize those two fields. Examine the results 
+Exercise Solution: Immutability(file)
+
+## Exercise 5
+Exercise Description: Create an example program to demonstrate Generics. Create a GenericList Class with a parameter (T). In runtime create generic objects using this Generic List for integers, strings and other objects. Then create a second Generic List to demonstrate that by using a generic type parameter T you can write s single class that other code can use.
+Exercise Solution: Generics(file)
+

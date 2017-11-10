@@ -1,0 +1,27 @@
+## Exercise 1 
+Exercise Description: Ask user to input his/her age. Based on input create different block of codes using if/else statements. 
+Exercise Solution: ConditionalsClassroom (file)
+
+## Exercise 2
+Exercise Description: Ask user to input two numbers. Create and initialize two Booleans. Based on Booleans value create different outputs, and different actions. If both are false add the two numbers. If at least one Boolean is false subtract the second from the first number. If 1st Boolean is false and 1st number  larger than 5 multiply the two numbers. If second Boolean is true, AND addition is larger than 45 and number1%number2 is zero then print Something.
+Exercise Solution: ConditionalsHomeWork (file)
+
+## Exercise 3 
+Exercise Description: Ask user to input a number. Based on input create block of codes using while and do-while statements. Output the same result from both blocks
+Exercise Solution: WhileLoopsClassroom (file)
+
+## Exercise 4
+Exercise Description: Create a standard loop and print the counter. Examine how postfix and prefix operator works in and out of the loops. Create a loop with continue and break keywords.
+Exercise Solution: ForLoopsClassroom (file)
+
+## Exercise 5
+Exercise Description: Create a program to print numbers from 0 – 1000 per 100, and from 1000 – 2000 per 50. Then ask the user to enter a number and print the multiplication table from 1 – 10. Then try to print 12 rows with numbers 1 – 7 and at the end of each row print row number. Finally ask for a user input number and calculate that Fibanacci number.
+Exercise Solution: ForLoopsHomework (file)
+
+## Exercise 6
+Exercise Description: Ask user to pick a number from 1 – 6. Based on his choice create a switch statement ant print different result. Create an Enumeration for Colors and match the choices with a switch statement.
+Exercise Solution: SwitchEnumsClassroom (file)
+
+## Exercise 7
+Exercise Description: Create an Enumeration about Kids Ages. Create a constant variable about a specific age. Use Conditional code to print every situation.
+Exercise Solution: ConstantsEnumClassroom (file)
