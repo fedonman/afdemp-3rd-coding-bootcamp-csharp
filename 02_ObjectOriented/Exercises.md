@@ -17,8 +17,8 @@
 Implement a University class containing university's info, a list of Courses and a list of its Students. Courses have name and ECTS. Students have name and age. A Student registers up to 5 courses.
 1. Create the classes and their properties.
 2. Create a method that registers student to course
-3. Create a method that marks a course as completed and stores user’s grade
-4. Create a method that calculates user’s median grade. Use ECTS as weights. Ie. like M = (M1*E1 + M2*E2 + M3*E3) / (E1 + E2 + E3)
+3. Create a method that marks a course as completed and stores userâ€™s grade
+4. Create a method that calculates userâ€™s median grade. Use ECTS as weights. Ie. like M = (M1*E1 + M2*E2 + M3*E3) / (E1 + E2 + E3)
 5. Create a method that returns the best and worst student of a course.
 
 
