@@ -1,10 +1,10 @@
 ## Exercise Circle
 
 1. Create a class called Circle that contains:
-* Two properties: Radius (of the type double) and Color (of the type String), with default value of 1.0 and "red", respectively.
-* Two overloaded constructors - a default constructor with no argument, and a constructor which takes a double argument for radius.
-* Two public methods: SetRadius() and SetColor() that sets the radius and color, respectively.
-* One public method: GetArea(), which return the area of this instance.
+   * Two properties: Radius (of the type double) and Color (of the type String), with default value of 1.0 and "red", respectively. 
+   * Two overloaded constructors - a default constructor with no argument, and a constructor which takes a double argument for radius. 
+   * Two public methods: SetRadius() and SetColor() that sets the radius and color, respectively. 
+   * One public method: GetArea(), which return the area of this instance.
 2. Create a class called Color that contains three properties, R, G, B that represent the values of red, green, blue channels.
 3. Update class Circle, so it has two properties for fill color and border color that are representated by Color. (delete previous Property Color)
 4. Create a class Point, that representes a point in 2d space (x,y).
