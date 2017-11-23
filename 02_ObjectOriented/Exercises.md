@@ -31,7 +31,7 @@ Implement a University class containing university's info, a list of Courses and
 
 
 ## Exercise *Fraction*
-1. Define a class Fraction, which contains information about the rational fraction (e.g. 1/4).  
+1. Define a class *Fraction*, which contains information about the rational fraction (e.g. 1/4).  
 2. Define the appropriate fields, properties and constructors.  
 3. Override ToString() to print the Fraction (e.g. "1/4").  
 4. Override operator * to multiply two Fractions.  
@@ -39,4 +39,18 @@ Implement a University class containing university's info, a list of Courses and
 6. Define a property of type *decimal* to return the decimal value of the fraction (e.g. 0.25).  
 7. Implement IComparable interface to enable sorting of Fractions.  
 8. Write a function Cancel() to cancel the Fraction. (e.g. 10/15 is cancelled to 2/3).
+
+
+## Exercise Utilities
+Create a static class *Utilities* and 
+1. 
+   1. Write a method which takes two integers parameters and swaps them. Use *ref*. 
+   2. Create a second method which swaps generic types.
+2. 
+   1. Write a  method that finds the longest subsequence of equal numbers in a given *List<int>* and returns the result as new *List<int>*. 
+   2. Create a second method which does the same for generic types. Test it with class *Fraction*. 
+   3. Implement the same, but as an extension method of class *List* (search what extension method is). 
+3. 
+   1. Write a method that takes as parameters the a, b, c of the quadratic equation *ax^2 + bx + c = 0* and returns the real-valued solutions if they exist. 
+   2. Try doing the same with complex solutions using the *Complex* class. 
 
