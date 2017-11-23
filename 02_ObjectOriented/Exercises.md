@@ -42,7 +42,8 @@ Implement a University class containing university's info, a list of Courses and
 
 
 ## Exercise Utilities
-Create a static class *Utilities* and 
+Create a static class *Utilities* and
+
 1. 
    1. Write a method which takes two integers parameters and swaps them. Use *ref*. 
    2. Create a second method which swaps generic types.
