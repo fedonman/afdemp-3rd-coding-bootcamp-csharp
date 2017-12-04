@@ -31,7 +31,7 @@ The Utopian Tree goes through 2 cycles of growth every year. Each spring, it dou
 
 Laura plants a Utopian Tree sapling with a height of 1 meter at the onset of spring. How tall will her tree be after N growth cycles?
 
-Write a function that returns an array with elements the tree's height after each cycle. So, `array[0]` will contain the initial tree's height, `array[1] will contain the tree's height after 1 cycle etc.
+Write a function that returns an array with elements the tree's height after each cycle. So, `array[0]` will contain the initial tree's height, `array[1]` will contain the tree's height after 1 cycle etc.
 
 Write a second function that prints the results. Each height must be printed on a new line.
 
