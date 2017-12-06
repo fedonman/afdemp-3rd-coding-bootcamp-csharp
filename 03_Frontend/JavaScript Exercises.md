@@ -37,4 +37,10 @@ Write a second function that prints the results. Each height must be printed on 
 
 
 ## Time from now
-Write a function that takes as input a date and returns a string representating the relative difference between *now* and that date. For example if *now* is `04-12-2017` and input date is `05-01-2018` then the function would return `"1 month and 1 day from now"`. 
+Write a function that takes as input a date and returns a string representating the relative difference between *now* and that date. For example if *now* is `04-12-2017` and input date is `05-01-2018` then the function would return `"1 month and 1 day from now"`.
+
+
+## Book List
+1. Create a webpage that dynamically creates a list with the books you plan to read. The books are hardcoded in a javascript array. 
+2. Extend the functionality by adding a form to add new books to the list.
+3. Extend the functionality by toggling the state of a book (read/not read) by clicking it.
