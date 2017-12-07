@@ -1,0 +1,11 @@
+li {
+  list-style: none;
+}
+
+li:hover {
+  cursor: pointer;
+}
+
+li.read {
+  text-decoration: line-through;
+}

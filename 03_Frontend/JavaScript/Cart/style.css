@@ -1,0 +1,27 @@
+main {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  flex-wrap: wrap;
+}
+
+.half-width {
+  flex: 1 1 50%;
+}
+
+.full-width {
+  width: 100%;
+  text-align: right;
+}
+
+#total-cost {
+  align-self: flex-end;
+}
+
+li {
+  list-style: none;
+}
+
+li:hover {
+  cursor: pointer;
+}
